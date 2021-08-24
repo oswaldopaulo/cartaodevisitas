@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Card</string>
+    <string name="label_businer_card">Cartão de Visita</string>
+    <string name="label_description_new_card">Novo Cartão</string>
+</resources>
